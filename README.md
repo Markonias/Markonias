@@ -1,10 +1,10 @@
 ## HOLA WACHO
 
---Quien soy
+--Quien soy--
 
 Soy un apasionado gamer de Counter-Strike desarrollador líder de la empresa Google. 
 
---Gustos
+--Gustos--
 
 -**Hobby:** Me gusta jugar a la pc 
 
@@ -14,7 +14,7 @@ Soy un apasionado gamer de Counter-Strike desarrollador líder de la empresa Goo
 
 -**Programacion:** no se codear perdón
 
---Expectativas
+--Expectativas--
 
 **ninguna, corta*
 
