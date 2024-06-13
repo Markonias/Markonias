@@ -6,13 +6,13 @@ Soy un apasionado gamer de Counter-Strike líder creativo del videojuego "Terrar
 ___
 <h2>Gustos</h2>
 
--**Hobby:** Me gusta jugar a la pc 
+-**Hobby:** Me gusta jugar a la pc 🤸‍♂️
 
--**Musica:** Me gusta Kendrick Lamar
+-**Musica:** Me gusta Kendrick Lamar🏌
 
--**Cine:** Mi pelicula favorita se llama "Interestelar"
+-**Cine:** Mi pelicula favorita se llama "Interestelar"🕺
 
--**Programacion:** no se codear perdón
+-**Programacion:** no se codear perdón🧘‍♂️
 ___
 <h2>Expectativas</h2>
 
