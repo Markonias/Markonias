@@ -5,14 +5,7 @@
 Soy un apasionado gamer de Counter-Strike líder creativo del videojuego "Terraria"
 ___
 <h2>Gustos</h2>
-
-- **Hobby:** Me gusta jugar a la pc 🤸‍♂️
-
-- **Musica:** Me gusta Kendrick Lamar🏌
-
-- **Cine:** Mi pelicula favorita se llama "Interestelar"🕺
-
-- **Programacion:** no se codear perdón🧘‍♂️
+mansana y pistacho
 ___
 <h2>Expectativas</h2>
 
